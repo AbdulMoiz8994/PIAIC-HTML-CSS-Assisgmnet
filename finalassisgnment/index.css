@@ -1,0 +1,35 @@
+#topnav{
+    background-color: #E5D68A !important;
+}
+.callimg{
+    height: 30px !important;
+    width: 40px !important;
+    margin-left: 380px;
+}
+.numb{
+    margin-top: 10px !important;
+    padding-left: 15px;
+    font-size: 20px;
+}
+.callimgs{
+    height: 30px !important;
+    width: 40px !important;
+    margin-left: 30px;
+}
+.btn{
+    width: 120px;
+    margin-left: 30px;
+
+}
+#navbars{
+    background-color: #50DBB4 !important;
+}
+.collapse{
+    color: black !important;
+    margin-left: 490px;
+    font-weight: bolder;
+}
+#imgofpana{
+    height: 45px !important;
+    /* width: 120px; */
+}
