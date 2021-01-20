@@ -150,8 +150,10 @@
     margin-left: 160px !important;
 
 }
+.process p{
+   padding-bottom: 20px;    
+}
 .one{
-   /* background-color: black; */
     border-radius: 50%;
     width: 40px;
     height: 40px;
@@ -185,5 +187,61 @@
       border-width: 5px;
       border-color: gray;
 }
+.aboutus{
+    background-color: #CAD5E2;
+}
+.aboutus h1{
+    padding-top: 20px;
+}
+.aboutus p{
+    padding-bottom: 20px;    
 
+}
+
+.paras{
+    text-align: left;
+   width: 37%;
+   margin-top: -100px !important;
+   margin-left: 120px;
+   padding-left: 20px;
+}
+.imgpara img{
+    border-radius: 100px !important;
+    height: 100px;
+     width: 100px;
+     margin: 10px 20px;
+
+    }
+
+.aboutus hr{
+    border: 2px solid gray;
+    margin: 10px 10px;
+    vertical-align: 30px !important;
+}
+.right{
+    margin-left: 620px;
+    margin-bottom: -150px;
+    border-radius: 100px !important;
+    height: 100px;
+     width: 100px;
+}
+.right-para{
+    /* width: 40%; */
+    text-align: left !important;
+    margin-left: 750px;
+    margin-bottom: -140px;
+}
+.rightB{
+    margin-left: 620px;
+    margin-top: -200px;
+    border-radius: 100px !important;
+    height: 100px;
+     width: 100px;
+}
+.right-paraB{
+    /* width: 40%; */
+    text-align: left !important;
+    margin-left: 750px;
+    margin-top: -155px;
+}
 
